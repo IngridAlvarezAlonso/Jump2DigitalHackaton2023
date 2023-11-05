@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pili",
+        "tipo": "mediaval",
+        "precio": 2.0,
+        "color": "red"
+    },
+    {
+        "id": 2,
+        "nombre": "bluefashion",
+        "tipo": "fashionn",
+        "precio": 200.0,
+        "color": "blue"
+    }
+]
